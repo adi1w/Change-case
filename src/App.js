@@ -23,10 +23,10 @@ function App() {
   );
 }
  function HocRed(props){
-   return <h2 style={{backgroundColor:"red",width:"180px" }}> <props.compo/></h2>
+   return <h2 style={{backgroundColor:"salmon",width:"180px" }}> <props.compo/></h2>
  }
  function HocGreen(props){
-  return <h2 style={{backgroundColor:"green",width:"180px" }}> <props.compo/></h2>
+  return <h2 style={{backgroundColor:"lightblue",width:"180px" }}> <props.compo/></h2>
 }
 
 function Counter(){
