@@ -10,7 +10,7 @@ function App() {
       <PureCompo></PureCompo>
       </div>
       <div className='right'>
-      <h1>High Order Component</h1>
+      <h1 style ={{color:"green"}}>High Order Component</h1>
       <h3 style={{color:"red"}}>it component as argument and always return a new component it means
        take input as component and give component as output
        </h3>
